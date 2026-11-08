@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
-    <uses-policies>
-        <!-- 不申请任何具体策略；占位本身不需要策略，只是为了拿到 owner 身份 -->
-    </uses-policies>
-</device-admin>
